@@ -1,1 +1,4 @@
 # Prestashop-v1.6.1.17
+links de interes 
+http://doc.prestashop.com/display/PS16/Chapter+3+-+First+steps+-+Accessing+the+web+service+and+listing+customers
+
