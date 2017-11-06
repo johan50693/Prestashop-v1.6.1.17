@@ -7,5 +7,7 @@ https://www.video2brain.com/mx/tutorial/que-son-los-front-controllers-creando-un
 Filtros 
 https://datatables.net/examples/advanced_init/
 
+Admincontroller
+http://proactive-learning.readthedocs.io/es/latest/php/prestashop/admincontroller.html
 
 
