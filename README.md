@@ -4,5 +4,8 @@ http://doc.prestashop.com/display/PS16/Chapter+3+-+First+steps+-+Accessing+the+w
 
 https://www.video2brain.com/mx/tutorial/que-son-los-front-controllers-creando-un-controlador
 
+Filtros 
+https://datatables.net/examples/advanced_init/
+
 
 
