@@ -13,6 +13,9 @@ http://proactive-learning.readthedocs.io/es/latest/php/prestashop/admincontrolle
 libro
 https://books.google.co.ve/books?id=BsSiBQAAQBAJ&pg=PT169&lpg=PT169&dq=admin+controller+prestashop&source=bl&ots=JDaT3pE6cp&sig=i_xvFBjJJKeN2n7FPpvmPOj82cg&hl=es-419&sa=X&ved=0ahUKEwiz79PFwKzXAhXCOSYKHdzLCj44ChDoAQhQMAY#v=onepage&q=admin%20controller%20prestashop&f=false
 
+Ejemplos modulos
+http://nemops.com/category/tutorials/development/
+
 
 
 
