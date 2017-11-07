@@ -16,6 +16,8 @@ https://books.google.co.ve/books?id=BsSiBQAAQBAJ&pg=PT169&lpg=PT169&dq=admin+con
 Ejemplos modulos
 http://nemops.com/category/tutorials/development/
 
+ajax 
+http://doc.prestashop.com/display/PS16/Using+jQuery+and+Ajax
 
 
 
