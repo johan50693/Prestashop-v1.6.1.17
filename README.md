@@ -19,5 +19,8 @@ http://nemops.com/category/tutorials/development/
 ajax 
 http://doc.prestashop.com/display/PS16/Using+jQuery+and+Ajax
 
+add css
+http://nemops.com/creating-new-pages-in-prestashop/#.WgJnX5_iaFM
+
 
 
