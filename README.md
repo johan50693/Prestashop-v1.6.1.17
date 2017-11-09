@@ -22,5 +22,8 @@ http://doc.prestashop.com/display/PS16/Using+jQuery+and+Ajax
 add css
 http://nemops.com/creating-new-pages-in-prestashop/#.WgJnX5_iaFM
 
+cursos
+https://www.video2brain.com/mx/tutorial/aplicando-js-y-css-a-nuestro-modulo-de-prestashop/comentarios-de-los-usuarios
+
 
 
