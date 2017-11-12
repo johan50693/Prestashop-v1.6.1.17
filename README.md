@@ -25,5 +25,8 @@ http://nemops.com/creating-new-pages-in-prestashop/#.WgJnX5_iaFM
 cursos
 https://www.video2brain.com/mx/tutorial/aplicando-js-y-css-a-nuestro-modulo-de-prestashop/comentarios-de-los-usuarios
 
+panel de configuracion del modulo
+http://trikendo.com/blog/1-3-creando-un-formulario-de-configuracion-sencillo/
+
 
 
