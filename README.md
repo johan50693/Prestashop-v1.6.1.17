@@ -28,5 +28,8 @@ https://www.video2brain.com/mx/tutorial/aplicando-js-y-css-a-nuestro-modulo-de-p
 panel de configuracion del modulo
 http://trikendo.com/blog/1-3-creando-un-formulario-de-configuracion-sencillo/
 
+https://www.amauri.eng.br/en/blog/2016/03/developing-a-simple-module-with-crud-for-prestashop/
+https://webkul.com/blog/create-and-submit-form-using-renderoptions-in-admin-controller-of-prestashop/
+
 
 
