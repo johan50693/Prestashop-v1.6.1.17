@@ -31,5 +31,26 @@ http://trikendo.com/blog/1-3-creando-un-formulario-de-configuracion-sencillo/
 https://www.amauri.eng.br/en/blog/2016/03/developing-a-simple-module-with-crud-for-prestashop/
 https://webkul.com/blog/create-and-submit-form-using-renderoptions-in-admin-controller-of-prestashop/
 
+Cargar .tpl en controller
+public function initContent()
+{
+    parent::initContent();
+
+    $smarty = $this->context->smarty;
+    // msg and title variables must be assigned before fetching template
+    // otherwise they are not recognized in template
+    $smarty->assign(array(
+        'msg' => $this->msg,
+        'title' => $this->title
+    ));
+    $content = $smarty->fetch(_PS_MODULE_DIR_ . 'pushnotification/views/templates/admin/pushnotificationform.tpl');
+    $smarty->assign(array(
+        'content' => $this->content . $content
+    ));
+}
+
+Obtener link para controlador
+
+https://stackoverflow.com/questions/39290553/prestashop-1-6-how-to-create-and-submit-custom-form-using-admin-controller
 
 
